@@ -5,7 +5,7 @@ class Api::V1::ProjectsController < ApplicationController
   def index
     @projects = Project.all
 
-    render json: @projects.to_json
+    render json: @projects.to_json, status: :ok
   end
 
   # GET /projects/1
