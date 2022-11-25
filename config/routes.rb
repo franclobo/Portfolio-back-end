@@ -4,4 +4,5 @@ Rails.application.routes.draw do
       resources :projects
     end
   end
+  root to: 'api/v1/projects#index'
 end
