@@ -81,4 +81,4 @@ test:
 #
 production:
   <<: *default
-  url: <%= ENV["DATABASE_URL"] %>
+  url: <%= ENV["postgres://portfolio_db_5kwd_user:YpVnA9vgulJUcGbYpS1l9Yio6LJnqPEJ@dpg-ce02g55a4992915m0ij0-a/portfolio_db_5kwd"] %>
