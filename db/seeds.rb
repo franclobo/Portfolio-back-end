@@ -62,7 +62,7 @@ image: [
 ],
 skills: ["Ruby on Rails", "PostgreSQL"],
 github: "https://github.com/franclobo/Recipes_app",
-demo: "https://recipes-app-w53b.onrender.com"
+demo: "https://recipes-app.fly.dev/"
 
 )
 Project_5 = Project.create(
