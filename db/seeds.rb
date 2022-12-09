@@ -62,7 +62,7 @@ image: [
 ],
 skills: ["Ruby on Rails", "PostgreSQL"],
 github: "https://github.com/franclobo/Recipes_app",
-demo: "https://recipes-app.fly.dev/"
+demo: "https://recipes-app09122022.herokuapp.com/"
 
 )
 Project_5 = Project.create(
@@ -77,7 +77,7 @@ image: [
 ],
 skills: ["Ruby on Rails", "PostgreSQL"],
 github: "https://github.com/franclobo/Budget",
-demo: "https://budget-app-h5p6.onrender.com"
+demo: "https://budget09122022.herokuapp.com/"
 )
 Project_6 = Project.create(
 name: "Tesla-Booking",
